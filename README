@@ -1,4 +1,4 @@
-# Estudos criação de paginas dinamicas com javaScript!
+#Estudos criação de paginas dinamicas com javaScript!
 
 * Criamos a função tocaSom e passamos o seletorAudio como parametro
 * Pegamos o elemento com document.querySelector(selectorAudio)
